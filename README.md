@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi, I'm Anurag Prasad <img src="https://raw.githubusercontent.com/pynip/pynip/main/.github/assets/wave.gif" height="28" alt="wave"/></h1>
-<p align="center">Data & Quant Engineering • Market Data Pipelines • Backtesting Systems • GenAI Tooling</p>
+<p align="center">Data Science & Quant-Finance • Robust Large Scale Data Pipelines on AWS • Backtesting Systems • GenAI Tooling</p>
 <p align="center">
   <a href="mailto:er.anuragprasad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-er.anuragprasad%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/pynip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pynip-181717?style=flat-square&logo=github"></a>
