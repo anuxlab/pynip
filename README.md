@@ -30,16 +30,17 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c6f34e2b-4cbc-453f-bca2-fed803d1570e" /> Core Competencies
-- Building scalable and robust web crawlers/scrappers including dynamic websites [Had hardcore experiences with clients like BrightData and personal experiments]
-- Building MLOps lifecycle using MLflow + databricks + DVC + any other tools, focus [Google Cloud Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) on levels 0-2
-- Large Scale Realtime Data Collection and further cleaning and processing, transformation and storing/caching on any cloud services [Had experience with capturing realime options snapshots data with low-latency 0.013s)
-- Market / Options Data Engineering (high‑volume ingestion, normalization, replay)
-- To predictive analytics model using NL/ML with optimization
-- GenAI Augmentation (LLM-assisted artifact generation, prompt tooling, DSPy / LangChain)
-- Backtesting Architecture (simulation fidelity, performance profiling, reproducibility)
-- Quant Research Enablement (research tooling, rapid prototyping, CI/CD hardening)
-- Cloud & its complete Automation with 99.99% bug free codes (AWS EC2/S3/IAM/CloudWatch wrappers)
-  
+- Low‑latency market/options data pipelines (≤13ms snapshot capture) across live + historical feeds.
+- Deterministic backtesting frameworks (reproducible, profile‑driven, multi‑asset ready).
+- Quant research enablement (modular loaders, feature gen, evaluation harnesses).
+- GenAI integration (DSPy / LangChain automation for docs, prompts, research artifacts).
+- Cloud automation (AWS/Azure infra wrappers: EC2, S3, IAM, CloudWatch, cost optimization).
+- Resilient large‑scale data & web acquisition (Playwright/Scrapy/Selenium with failure recovery).
+- Data quality enforcement (schema drift detection, replay consistency, CI/CD gating tests).
+- MLOps & experiment tracking (MLflow lineage, reproducible envs, lightweight deploy paths).
+- Performance tuning (profiling, batching, async/parallel execution, resource right‑sizing).
+- Secure engineering practices (least‑privilege IAM, secrets isolation, audit-ready logging).
+
 ---
 
 ### 🛠️ Tech Stack
@@ -78,15 +79,6 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3bbd0081-12f6-4484-8b64-124055d5cfd2" /> Education
-<!-- Local asset icons (similar style to skillicons). Adjusted to uniform height (36px) -->
-<!-- <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" height="42" alt="IIT Madras" style="margin:4px;"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzULg6K1F6OSHqiv5cTtEofCPwh6Zj50FQw&s" height="42" alt="ISI" style="margin:4px;"/>
-  <img src="https://www.irma.ac.in/images/irma_social_share_img.jpg" height="42" alt="IRMA" style="margin:4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/53/DMI_official_logo_designed.png" height="42" alt="DMI" style="margin:4px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/as/4/42/Gauhati_university_logo.jpg" height="42" alt="Gauhati University" style="margin:4px;"/>
-</p> -->
-
 | Program | Institution | Period |
 |---------|-------------|--------|
 | BS, Data Science & Applications | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" height="42" alt="IIT Madras" style="margin:4px;vertical-align:middle;"/>[IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
@@ -94,60 +86,6 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 | MDP, Project Management for Rural Livelihoods | <img src="https://www.irma.ac.in/images/irma_social_share_img.jpg" height="42" alt="IRMA" style="margin:4px;vertical-align:middle;"/>[IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
 | PGDM, Development Management | <img src="https://upload.wikimedia.org/wikipedia/en/5/53/DMI_official_logo_designed.png" height="42" alt="DMI" style="margin:4px;vertical-align:middle;"/>[DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
 | B.Tech, Computer Science & Engineering | <img src="https://upload.wikimedia.org/wikipedia/as/4/42/Gauhati_university_logo.jpg" height="42" alt="Gauhati University" style="margin:4px;vertical-align:middle;"/>[Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
-
-<!-- Previous table with embedded remote logos (now replaced) retained below for rollback if needed -->
-<!-- | Logo | Program | Institution | Period | -->
-<!-- |:----:|---------|-------------|--------| -->
-<!-- (omitted for brevity) -->
-
-<!-- <table>
-  <tr>
-    <th>Program</th>
-    <th>Institution</th>
-    <th>Period</th>
-  </tr>
-  <tr>
-    <td>BS, Data Science & Applications</td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" height="42"/><br/>
-      <a href="https://ds.study.iitm.ac.in/student/25F2008305" >IIT Madras</a>
-    </td>
-    <td>2025–Present [ONLINE]</td>
-  </tr>
-  <tr>
-    <td>PGD, Statistical Methods & Analytics</td>
-    <td align="center">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzULg6K1F6OSHqiv5cTtEofCPwh6Zj50FQw&s" height="42"/><br/>
-      <a href="https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG">Indian Statistical Institute</a>
-    </td>
-    <td>2023–24</td>
-  </tr>
-  <tr>
-    <td>MDP, Project Management for Rural Livelihoods</td>
-    <td align="center">
-      <img src="https://www.irma.ac.in/images/irma_social_share_img.jpg" height="42"/><br/>
-      <a href="https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769">IRMA</a>
-    </td>
-    <td>2021</td>
-  </tr>
-  <tr>
-    <td>PGDM, Development Management</td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/5/53/DMI_official_logo_designed.png" height="42"/><br/>
-      <a href="https://dmi.ac.in/mi-reports-pdm-18-20">DMI</a>
-    </td>
-    <td>2018–20</td>
-  </tr>
-  <tr>
-    <td>B.Tech, Computer Science & Engineering</td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/as/4/42/Gauhati_university_logo.jpg" height="42"/><br/>
-      <a href="https://gauhati.ac.in/academic/technology/information-technology">Gauhati University – Dept of IT</a>
-    </td>
-    <td>2012–16</td>
-  </tr>
-</table> -->
-
 
 ---
 
@@ -173,22 +111,6 @@ Articles (OpenGenus IQ):
 
 ### 🤝 Collaboration
 Open to: Any freelance contracts or projects related to data domains. If you have offers you’d like to bid on, I can help get your task done with very high quality.
-<!-- --- Open to: short-term quant data engineering contracts, research infra prototypes, GenAI-enhanced data tooling. -->
-
-<!-- ---
-
- ### 📊 GitHub Snapshot -->
-
-  <!-- Removed include_all_commits (was triggering 'could not fetch total commits'). count_private only works on self-hosted instance with PAT. -->
-
-<!-- <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pynip&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&hide_title=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pynip&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pynip&theme=tokyonight&hide_border=true" height="170" />
-</p> -->
 
 ---
 
