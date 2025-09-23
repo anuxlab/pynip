@@ -3,6 +3,9 @@
 <h1 align="center">Hi, I'm Anurag Prasad <img src="https://raw.githubusercontent.com/pynip/pynip/main/.github/assets/wave.gif" height="28" alt="wave"/></h1>
 <p align="center">Data Science & Quant-Finance • Robust Large Scale Data Pipelines on AWS • Backtesting Systems • GenAI Tooling</p>
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=pynip&theme=tokyonight&hide_border=true" height="170" />
+</p>
+<p align="center">
   <!-- Profile / Network Badges -->
   <a href="https://github.com/pynip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pynip-181717?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/anuragprasadguwahati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anuragprasadguwahati-0A66C2?style=flat-square&logo=linkedin"></a>
@@ -166,19 +169,23 @@ Articles (OpenGenus IQ):
 ---
 
 ### 🤝 Collaboration
-Open to: short-term quant data engineering contracts, research infra prototypes, GenAI-enhanced data tooling.
+Open to: Any freelance contracts or projects related to data domains. If you have offers you’d like to bid on, I can help get your task done with very high quality.
+<!-- --- Open to: short-term quant data engineering contracts, research infra prototypes, GenAI-enhanced data tooling. -->
 
----
+<!-- ---
 
-### 📊 GitHub Snapshot
-<p align="center">
+ ### 📊 GitHub Snapshot -->
+
   <!-- Removed include_all_commits (was triggering 'could not fetch total commits'). count_private only works on self-hosted instance with PAT. -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pynip&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<!-- <p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pynip&show_icons=true&theme=tokyonight&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged&include_all_commits=true&hide_title=true"/>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pynip&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
+</p> -->
+
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=pynip&theme=tokyonight&hide_border=true" height="170" />
-</p>
+</p> -->
 
 ---
 
