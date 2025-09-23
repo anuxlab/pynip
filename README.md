@@ -74,7 +74,7 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 <!-- Local asset icons (similar style to skillicons). Adjusted to uniform height (36px) -->
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" height="42" alt="IIT Madras" style="margin:4px;"/>
-  <img src=".github/assets/edu/isi.png" height="42" alt="ISI" style="margin:4px;"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzULg6K1F6OSHqiv5cTtEofCPwh6Zj50FQw&s" height="42" alt="ISI" style="margin:4px;"/>
   <img src=".github/assets/edu/irma.png" height="42" alt="IRMA" style="margin:4px;"/>
   <img src=".github/assets/edu/dmi.png" height="42" alt="DMI" style="margin:4px;"/>
   <img src=".github/assets/edu/gauhati.png" height="42" alt="Gauhati University" style="margin:4px;"/>
