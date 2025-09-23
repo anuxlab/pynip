@@ -7,6 +7,8 @@
   <a href="https://github.com/pynip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pynip-181717?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/anuragprasadguwahati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anuragprasadguwahati-0A66C2?style=flat-square&logo=linkedin"></a>
   <a href="https://ds.study.iitm.ac.in/student/25F2008305" target="_blank"><img alt="IITM BSDS Profile" src="https://img.shields.io/badge/IITM%20BS-Data%20Science-maroon?style=flat-square"></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/cf693d7f-11be-4a37-a84b-e851d28b255a" target="_blank"><img alt="Google Cloud Skills Boost" src="https://img.shields.io/badge/Cloud%20Skills%20Boost-Profile-4285F4?style=flat-square&logo=googlecloud&logoColor=white"></a>
+  <a href="https://iq.opengenus.org/author/anurag-prasad/" target="_blank"><img alt="OpenGenus IQ Author" src="https://img.shields.io/badge/OpenGenus%20IQ-Author-111111?style=flat-square"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=pynip&style=flat-square&color=gray"/>
 </p>
 <p align="center" style="margin-top:4px;">
@@ -79,6 +81,13 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ### 📜 Certifications
 - India Data Portal Workshop — Bharti Institute of Public Policy
 - Virtual Training on T4D: Digital Data Collection for M&E — FICCI Aditya Birla CSR Centre
+
+---
+
+### 📝 Publications
+Articles (OpenGenus IQ):
+- [Pandas DataFrame (Complete Guide)](https://iq.opengenus.org/pandas-dataframe/)
+- [Concept of Multiple Instance Learning](https://iq.opengenus.org/multiple-instance-learning/)
 
 ---
 
