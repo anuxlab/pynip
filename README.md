@@ -71,18 +71,19 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### 🎓 Education
-| Program | Institution | Period |
-|---------|-------------|--------|
-| BS, Data Science & Applications | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="18" alt="IIT Madras logo" style="vertical-align:middle;margin-right:4px;"/>[IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
-| PGD, Statistical Methods & Analytics | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Indian_Statistical_Institute_logo.png/120px-Indian_Statistical_Institute_logo.png" height="18" alt="Indian Statistical Institute logo" style="vertical-align:middle;margin-right:4px;"/>[Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 |
-| MDP, Project Management for Rural Livelihoods | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IRMAlogo.png/120px-IRMAlogo.png" height="18" alt="IRMA logo" style="vertical-align:middle;margin-right:4px;"/>[IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
-| PGDM, Development Management | <img src="https://dmi.ac.in/images/logo.png" height="18" alt="DMI logo" style="vertical-align:middle;margin-right:4px;"/>[DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
-| B.Tech, Computer Science & Engineering | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Gauhati_University_logo.png/120px-Gauhati_University_logo.png" height="18" alt="Gauhati University logo" style="vertical-align:middle;margin-right:4px;"/>[Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
+<!-- Updated table with dedicated logo column and larger, clearer logos for visibility -->
+| Logo | Program | Institution | Period |
+|:----:|---------|-------------|--------|
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="34" alt="IIT Madras"/> | BS, Data Science & Applications | [IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Indian_Statistical_Institute_logo.png/120px-Indian_Statistical_Institute_logo.png" height="34" alt="Indian Statistical Institute"/> | PGD, Statistical Methods & Analytics | [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 |
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IRMAlogo.png/120px-IRMAlogo.png" height="34" alt="IRMA"/> | MDP, Project Management for Rural Livelihoods | [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
+| <img src="https://dmi.ac.in/images/logo.png" height="34" alt="DMI"/> | PGDM, Development Management | [DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
+| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Gauhati_University_logo.png/120px-Gauhati_University_logo.png" height="34" alt="Gauhati University"/> | B.Tech, Computer Science & Engineering | [Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
 
-<!-- (Optional alt table with notes retained for future) -->
-<!-- | Program | Institution | Period | Notes | -->
-<!-- |---------|-------------|--------|-------| -->
-<!-- | BS, Data Science & Applications | IIT Madras | 2025–Present | core: DS, ML, Systems | -->
+<!-- Previous inline-logo table retained for reference (commented out) -->
+<!-- | Program | Institution | Period | -->
+<!-- |---------|-------------|--------| -->
+<!-- | BS, Data Science & Applications | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="18" alt="IIT Madras"/>[IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] | -->
 
 ---
 
