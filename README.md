@@ -71,10 +71,11 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### 🎓 Education
-- PGD, Statistical Methods & Analytics — Indian Statistical Institute (2023–24)
-- MDP, Project Management for Rural Livelihoods — IRMA (2021)
-- PGDM, Development Management (Specialization: Development Management) — DMI (2018–20)
-- B.Tech, Computer Science & Engineering — Gauhati University (2012–16)
+- BS, Data Science and Applications - [IIT, Madras](https://ds.study.iitm.ac.in/student/25F2008305) (2025–Present)
+- PGD, Statistical Methods & Analytics — [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) (2023–24)
+- MDP, Project Management for Rural Livelihoods — [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) (2021)
+- PGDM, Development Management — [DMI](https://dmi.ac.in/mi-reports-pdm-18-20) (2018–20)
+- B.Tech, Computer Science & Engineering — [Dept of IT, Gauhati University](https://gauhati.ac.in/academic/technology/information-technology) (2012–16)
 
 ---
 
