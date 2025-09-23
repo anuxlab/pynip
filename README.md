@@ -29,13 +29,17 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 
 ---
 
-### 🧠 Core Competencies
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c6f34e2b-4cbc-453f-bca2-fed803d1570e" /> Core Competencies
+- Building scalable and robust web crawlers/scrappers including dynamic websites [Had hardcore experiences with clients like BrightData and personal experiments]
+- Building MLOps lifecycle using MLflow + databricks + DVC + any other tools, focus [Google Cloud Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) on levels 0-2
+- Large Scale Realtime Data Collection and further cleaning and processing, transformation and storing/caching on any cloud services [Had experience with capturing realime options snapshots data with low-latency 0.013s)
 - Market / Options Data Engineering (high‑volume ingestion, normalization, replay)
+- To predictive analytics model using NL/ML with optimization
+- GenAI Augmentation (LLM-assisted artifact generation, prompt tooling, DSPy / LangChain)
 - Backtesting Architecture (simulation fidelity, performance profiling, reproducibility)
 - Quant Research Enablement (research tooling, rapid prototyping, CI/CD hardening)
-- GenAI Augmentation (LLM-assisted artifact generation, prompt tooling, DSPy / LangChain)
-- Cloud & Automation (AWS EC2/S3/IAM/CloudWatch wrappers, observability & recovery)
-
+- Cloud & its complete Automation with 99.99% bug free codes (AWS EC2/S3/IAM/CloudWatch wrappers)
+  
 ---
 
 ### 🛠️ Tech Stack
@@ -73,7 +77,7 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 
 ---
 
-### 🎓 Education
+### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3bbd0081-12f6-4484-8b64-124055d5cfd2" /> Education
 <!-- Local asset icons (similar style to skillicons). Adjusted to uniform height (36px) -->
 <!-- <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" height="42" alt="IIT Madras" style="margin:4px;"/>
@@ -161,11 +165,10 @@ Articles (OpenGenus IQ):
 
 ---
 
-### 🚀 Current Focus
-- Enhancing latency-aware option chains ingestion & replay tooling
-- Experimenting with structured prompting via DSPy for research artifact pipelines
-- Hardening modular backtesting primitives for multi-asset extension
-
+### <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/8c78feb0-f676-47d5-8064-a1a0de29ed4b" /> Current Focus
+- Experimenting with the traditional Black-Scholes Model (BSM) until it breaks
+- Researching optimization techniques for Non-Integer Programming (NIP)
+- Practicing advanced data structures in C
 ---
 
 ### 🤝 Collaboration
