@@ -4,7 +4,8 @@
 <!-- <img src="https://raw.githubusercontent.com/pynip/pynip/main/.github/assets/wave.gif" height="28" alt="wave"/> -->
 <p align="center">Data Science & Quant-Finance • Robust Large Scale Data Pipelines on AWS/Azure • GenAI Tooling • Trading Backtesting/Realtime Systems • Derivatives</p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pynip&theme=tokyonight&hide_border=true" height="170" />
+  <!-- <img src="https://streak-stats.demolab.com?user=pynip&theme=tokyonight&hide_border=true" height="170" /> -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=pynip&theme=tokyonight&hide_border=true" height="170" />
 </p>
 <p align="center">
   <!-- Profile / Network Badges -->
