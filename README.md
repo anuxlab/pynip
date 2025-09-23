@@ -71,19 +71,27 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### 🎓 Education
-<!-- Updated table with dedicated logo column and larger, clearer logos for visibility; logos now clickable -->
-| Logo | Program | Institution | Period |
-|:----:|---------|-------------|--------|
-| <a href="https://ds.study.iitm.ac.in/student/25F2008305" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="34" alt="IIT Madras"/></a> | BS, Data Science & Applications | [IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
-| <a href="https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Indian_Statistical_Institute_logo.png/120px-Indian_Statistical_Institute_logo.png" height="34" alt="Indian Statistical Institute"/></a> | PGD, Statistical Methods & Analytics | [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 |
-| <a href="https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IRMAlogo.png/120px-IRMAlogo.png" height="34" alt="IRMA"/></a> | MDP, Project Management for Rural Livelihoods | [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
-| <a href="https://dmi.ac.in/mi-reports-pdm-18-20" target="_blank"><img src="https://dmi.ac.in/images/logo.png" height="34" alt="DMI"/></a> | PGDM, Development Management | [DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
-| <a href="https://gauhati.ac.in/academic/technology/information-technology" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Gauhati_University_logo.png/120px-Gauhati_University_logo.png" height="34" alt="Gauhati University"/></a> | B.Tech, Computer Science & Engineering | [Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
+<!-- Local asset icons (similar style to skillicons). Adjusted to uniform height (36px) -->
+<p align="center">
+  <img src=".github/assets/edu/iitm.svg" height="42" alt="IIT Madras" style="margin:4px;"/>
+  <img src=".github/assets/edu/isi.png" height="42" alt="ISI" style="margin:4px;"/>
+  <img src=".github/assets/edu/irma.png" height="42" alt="IRMA" style="margin:4px;"/>
+  <img src=".github/assets/edu/dmi.png" height="42" alt="DMI" style="margin:4px;"/>
+  <img src=".github/assets/edu/gauhati.png" height="42" alt="Gauhati University" style="margin:4px;"/>
+</p>
 
-<!-- Previous inline-logo table retained for reference (commented out) -->
-<!-- | Program | Institution | Period | -->
-<!-- |---------|-------------|--------| -->
-<!-- | BS, Data Science & Applications | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="18" alt="IIT Madras"/>[IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] | -->
+| Program | Institution | Period |
+|---------|-------------|--------|
+| BS, Data Science & Applications | [IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
+| PGD, Statistical Methods & Analytics | [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 |
+| MDP, Project Management for Rural Livelihoods | [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
+| PGDM, Development Management | [DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
+| B.Tech, Computer Science & Engineering | [Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
+
+<!-- Previous table with embedded remote logos (now replaced) retained below for rollback if needed -->
+<!-- | Logo | Program | Institution | Period | -->
+<!-- |:----:|---------|-------------|--------| -->
+<!-- (omitted for brevity) -->
 
 ---
 
