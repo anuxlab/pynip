@@ -5,7 +5,7 @@
 <p align="center">
   <!-- Profile / Network Badges -->
   <a href="https://github.com/pynip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pynip-181717?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/anuragprasad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/anuragprasadguwahati/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-anuragprasadguwahati-0A66C2?style=flat-square&logo=linkedin"></a>
   <a href="https://ds.study.iitm.ac.in/student/25F2008305" target="_blank"><img alt="IITM BSDS Profile" src="https://img.shields.io/badge/IITM%20BS-Data%20Science-maroon?style=flat-square"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=pynip&style=flat-square&color=gray"/>
 </p>
