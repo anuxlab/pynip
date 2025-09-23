@@ -30,16 +30,15 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c6f34e2b-4cbc-453f-bca2-fed803d1570e" /> Core Competencies
-- Low‑latency market/options data pipelines (≤13ms snapshot capture) across live + historical feeds.
-- Deterministic backtesting frameworks (reproducible, profile‑driven, multi‑asset ready).
-- Quant research enablement (modular loaders, feature gen, evaluation harnesses).
-- GenAI integration (DSPy / LangChain automation for docs, prompts, research artifacts).
-- Cloud automation (AWS/Azure infra wrappers: EC2, S3, IAM, CloudWatch, cost optimization).
-- Resilient large‑scale data & web acquisition (Playwright/Scrapy/Selenium with failure recovery).
-- Data quality enforcement (schema drift detection, replay consistency, CI/CD gating tests).
-- MLOps & experiment tracking (MLflow lineage, reproducible envs, lightweight deploy paths).
-- Performance tuning (profiling, batching, async/parallel execution, resource right‑sizing).
-- Secure engineering practices (least‑privilege IAM, secrets isolation, audit-ready logging).
+- Building scalable, robust web crawlers/scrapers for dynamic websites (BrightData client work + personal projects).
+- Designing & deploying MLOps lifecycle with MLflow, Databricks, DVC (applying Google Cloud MLOps Guide levels 0–2).
+- Large-scale real-time data collection, cleaning, transformation & cloud caching (options snapshot latency ≈13ms achieved).
+- Market / Options Data Engineering: high‑volume ingestion, normalization & replay.
+- Predictive analytics & NLP/ML model development (with optimization workflows).
+- GenAI augmentation: LLM‑assisted artifact generation & prompt tooling (DSPy, LangChain).
+- Backtesting architecture: simulation fidelity, performance profiling & reproducibility.
+- Quant research enablement: research tooling, rapid prototyping & CI/CD hardening.
+- Cloud automation (AWS EC2/S3/IAM/CloudWatch) targeting 99.99% reliability.
 
 ---
 
