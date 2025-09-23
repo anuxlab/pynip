@@ -145,8 +145,9 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### 📜 Certifications
-- India Data Portal Workshop — Bharti Institute of Public Policy
-- Virtual Training on T4D: Digital Data Collection for M&E — FICCI Aditya Birla CSR Centre
+- [Data Science Math Skills by Duke University](https://www.coursera.org/account/accomplishments/verify/3WZ3KCUBZ6TR)
+- [India Data Portal Workshop — ISB, Bharti Institute of Public Policy](https://drive.google.com/file/d/1VukR6ypJ_s4oY3-_t4w1NdHd4Iy37th2/view?usp=sharing)
+- [Virtual Training on T4D: Digital Data Collection for M&E — FICCI Aditya Birla CSR Centre](https://drive.google.com/file/d/17r-g3K_rApiT4tQydFdAmPSY42HlvpBn/view?usp=sharing)
 
 ---
 
