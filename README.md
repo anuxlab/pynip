@@ -3,10 +3,15 @@
 <h1 align="center">Hi, I'm Anurag Prasad <img src="https://raw.githubusercontent.com/pynip/pynip/main/.github/assets/wave.gif" height="28" alt="wave"/></h1>
 <p align="center">Data Science & Quant-Finance • Robust Large Scale Data Pipelines on AWS • Backtesting Systems • GenAI Tooling</p>
 <p align="center">
-  <a href="mailto:er.anuragprasad@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-er.anuragprasad%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <!-- Updated multi-email badges with prefixes -->
+  <a href="mailto:er.anuragprasad@gmail.com"><img alt="Personal Email" src="https://img.shields.io/badge/Personal-er.anuragprasad%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:25f2008305@ds.study.iitm.ac.in"><img alt="IITM Official Email" src="https://img.shields.io/badge/IITM%20Official-25f2008305%40ds.study.iitm.ac.in-maroon?style=flat-square"></a>
+  <a href="mailto:anurag.prasad25m@iiitg.ac.in"><img alt="IIITG Official Email" src="https://img.shields.io/badge/IIITG%20Official-anurag.prasad25m%40iiitg.ac.in-orange?style=flat-square"></a>
+  <a href="mailto:anurag.pdm05009@dmi.ac.in"><img alt="DMI Official Email" src="https://img.shields.io/badge/DMI%20Official-anurag.pdm05009%40dmi.ac.in-green?style=flat-square"></a>
+  <!-- Existing other badges -->
   <a href="https://github.com/pynip"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-pynip-181717?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/anuragprasad" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin"></a>
- <a href="https://ds.study.iitm.ac.in/student/25F2008305" target="_blank"><img alt="IITM BSDS Profile" src="https://img.shields.io/badge/IITM%20BS-Data%20Science-maroon?style=flat-square"></a>
+  <a href="https://ds.study.iitm.ac.in/student/25F2008305" target="_blank"><img alt="IITM BSDS Profile" src="https://img.shields.io/badge/IITM%20BS-Data%20Science-maroon?style=flat-square"></a>
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=pynip&style=flat-square&color=gray"/>
 </p>
 
@@ -99,7 +104,7 @@ Open to: short-term quant data engineering contracts, research infra prototypes,
 ---
 
 ### 📬 Contact
-Feel free to reach out via email for collaboration or opportunities.
+Feel free to reach out via any of the listed emails for collaboration or opportunities.
 
 <sub>*Reflects most recent update (auto-sync not enabled). Last updated: Sep 2025.</sub>
 
