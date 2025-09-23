@@ -30,15 +30,12 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/c6f34e2b-4cbc-453f-bca2-fed803d1570e" /> Core Competencies
-- Building scalable, robust web crawlers/scrapers for dynamic websites (BrightData client work + personal projects).
-- Designing & deploying MLOps lifecycle with MLflow, Databricks, DVC (applying Google Cloud MLOps Guide levels 0–2).
-- Large-scale real-time data collection, cleaning, transformation & cloud caching (options snapshot latency ≈13ms achieved).
-- Market / Options Data Engineering: high‑volume ingestion, normalization & replay.
-- Predictive analytics & NLP/ML model development (with optimization workflows).
-- GenAI augmentation: LLM‑assisted artifact generation & prompt tooling (DSPy, LangChain).
-- Backtesting architecture: simulation fidelity, performance profiling & reproducibility.
-- Quant research enablement: research tooling, rapid prototyping & CI/CD hardening.
-- Cloud automation (AWS EC2/S3/IAM/CloudWatch) targeting 99.99% reliability.
+
+- **Data Collection & Engineering** – Large-scale real-time data collection, cleaning, processing, transformation, and storage/caching on cloud services (experience capturing real-time options snapshot data at 0.013s latency); building scalable & robust web crawlers/scrapers (dynamic sites; BrightData clients + personal experiments); market/options data engineering (high-volume ingestion, normalization, replay).
+- **MLOps & Analytics** – Designing & deploying end-to-end MLOps pipelines using MLflow, Databricks, DVC, etc., focusing on levels 0–2 from the [Google Cloud Practitioners Guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf); predictive analytics model development using NLP/ML with optimization.
+- **GenAI & Automation** – GenAI augmentation for LLM-assisted artifact generation, prompt tooling, DSPy / LangChain; automation of pipelines & cloud operations with high reliability.
+- **Backtesting & Research Enablement** – Backtesting architecture ensuring simulation fidelity, performance profiling, reproducibility; quant research enablement via research tooling, rapid prototyping, CI/CD hardening.
+- **Cloud & Infrastructure Automation** – Complete cloud automation with 99.99% bug-free code, leveraging AWS EC2/S3/IAM/CloudWatch wrappers.
 
 ---
 
