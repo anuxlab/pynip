@@ -71,8 +71,8 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### 🎓 Education
-| Program | Institution | Period | Notes |
-|---------|-------------|--------|-------|
+| Program | Institution | Period |
+|---------|-------------|--------|
 | BS, Data Science & Applications | [IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE]
 | PGD, Statistical Methods & Analytics | [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 
 | MDP, Project Management for Rural Livelihoods | [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 
