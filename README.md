@@ -71,14 +71,14 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ---
 
 ### 🎓 Education
-<!-- Updated table with dedicated logo column and larger, clearer logos for visibility -->
+<!-- Updated table with dedicated logo column and larger, clearer logos for visibility; logos now clickable -->
 | Logo | Program | Institution | Period |
 |:----:|---------|-------------|--------|
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="34" alt="IIT Madras"/> | BS, Data Science & Applications | [IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Indian_Statistical_Institute_logo.png/120px-Indian_Statistical_Institute_logo.png" height="34" alt="Indian Statistical Institute"/> | PGD, Statistical Methods & Analytics | [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IRMAlogo.png/120px-IRMAlogo.png" height="34" alt="IRMA"/> | MDP, Project Management for Rural Livelihoods | [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
-| <img src="https://dmi.ac.in/images/logo.png" height="34" alt="DMI"/> | PGDM, Development Management | [DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Gauhati_University_logo.png/120px-Gauhati_University_logo.png" height="34" alt="Gauhati University"/> | B.Tech, Computer Science & Engineering | [Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
+| <a href="https://ds.study.iitm.ac.in/student/25F2008305" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/IIT_Madras_Logo.svg/120px-IIT_Madras_Logo.svg.png" height="34" alt="IIT Madras"/></a> | BS, Data Science & Applications | [IIT Madras](https://ds.study.iitm.ac.in/student/25F2008305) | 2025–Present [ONLINE] |
+| <a href="https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Indian_Statistical_Institute_logo.png/120px-Indian_Statistical_Institute_logo.png" height="34" alt="Indian Statistical Institute"/></a> | PGD, Statistical Methods & Analytics | [Indian Statistical Institute](https://www.isical.ac.in/~cssc/59th_Convocation_Photos/0A5A9740.JPG) | 2023–24 |
+| <a href="https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/IRMAlogo.png/120px-IRMAlogo.png" height="34" alt="IRMA"/></a> | MDP, Project Management for Rural Livelihoods | [IRMA](https://www.irma.ac.in/programmes/mdps-training-management-development-programmes/archived-mdps/769) | 2021 |
+| <a href="https://dmi.ac.in/mi-reports-pdm-18-20" target="_blank"><img src="https://dmi.ac.in/images/logo.png" height="34" alt="DMI"/></a> | PGDM, Development Management | [DMI](https://dmi.ac.in/mi-reports-pdm-18-20) | 2018–20 |
+| <a href="https://gauhati.ac.in/academic/technology/information-technology" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Gauhati_University_logo.png/120px-Gauhati_University_logo.png" height="34" alt="Gauhati University"/></a> | B.Tech, Computer Science & Engineering | [Gauhati University – Dept of IT](https://gauhati.ac.in/academic/technology/information-technology) | 2012–16 |
 
 <!-- Previous inline-logo table retained for reference (commented out) -->
 <!-- | Program | Institution | Period | -->
