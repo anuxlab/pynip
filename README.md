@@ -75,9 +75,9 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" height="42" alt="IIT Madras" style="margin:4px;"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzULg6K1F6OSHqiv5cTtEofCPwh6Zj50FQw&s" height="42" alt="ISI" style="margin:4px;"/>
-  <img src=".github/assets/edu/irma.png" height="42" alt="IRMA" style="margin:4px;"/>
-  <img src=".github/assets/edu/dmi.png" height="42" alt="DMI" style="margin:4px;"/>
-  <img src=".github/assets/edu/gauhati.png" height="42" alt="Gauhati University" style="margin:4px;"/>
+  <img src="[.github/assets/edu/irma.png](https://www.irma.ac.in/images/irma_social_share_img.jpg)" height="42" alt="IRMA" style="margin:4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/5/53/DMI_official_logo_designed.png" height="42" alt="DMI" style="margin:4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/as/4/42/Gauhati_university_logo.jpg" height="42" alt="Gauhati University" style="margin:4px;"/>
 </p>
 
 | Program | Institution | Period |
