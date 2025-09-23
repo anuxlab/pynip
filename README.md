@@ -172,8 +172,8 @@ Open to: short-term quant data engineering contracts, research infra prototypes,
 
 ### 📊 GitHub Snapshot
 <p align="center">
-  <!-- Added count_private & include_all_commits to include private + all commits -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pynip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <!-- Removed include_all_commits (was triggering 'could not fetch total commits'). count_private only works on self-hosted instance with PAT. -->
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pynip&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pynip&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
