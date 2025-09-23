@@ -15,7 +15,7 @@
   <!-- Contact Emails (Grouped) -->
   <a href="mailto:er.anuragprasad@gmail.com"><img alt="Personal Email" src="https://img.shields.io/badge/Personal-er.anuragprasad%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="mailto:25f2008305@ds.study.iitm.ac.in"><img alt="IITM Official Email" src="https://img.shields.io/badge/IITM%20Official-25f2008305%40ds.study.iitm.ac.in-maroon?style=flat-square"></a>
-  <a href="mailto:anurag.prasad25m@iiitg.ac.in"><img alt="IIITG Official Email" src="https://img.shields.io/badge/IIITG%20Official-anurag.prasad25m%40iiitg.ac.in-orange?style=flat-square"></a>
+  <!-- <a href="mailto:anurag.prasad25m@iiitg.ac.in"><img alt="IIITG Official Email" src="https://img.shields.io/badge/IIITG%20Official-anurag.prasad25m%40iiitg.ac.in-orange?style=flat-square"></a> -->
   <a href="mailto:anurag.pdm05009@dmi.ac.in"><img alt="DMI Official Email" src="https://img.shields.io/badge/DMI%20Official-anurag.pdm05009%40dmi.ac.in-green?style=flat-square"></a>
 </p>
 
