@@ -59,7 +59,7 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 ### 🏢 Experience
 <!-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/87d42596-2a35-48fd-a3cc-10fe637b534e" /> -->
 <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/7c4ff3b3-8b69-47f4-9840-586bd346942c" /></img>
-<strong>ZfenseLabs Inc — Data Scientist (Finance) (Contract)</strong> <em>(Remote, Jun 2024 – Present*)</em>
+<strong>ZfenseLabs Inc — Data Scientist (Finance) (Contract)</strong> <em>(Remote, Jun 2024 – Sept 2025)</em>
 - Re-architected core options & equities backtesting components improving simulation fidelity + maintainability.
 - Built concurrent historical + live options data pipelines (Alpaca REST, Databento RTC) on lean EC2 footprints.
 - Developed GenAI research tooling (DSPy, LiteLLM, Bedrock, LangChain) for strategy prototyping & artifact automation.
@@ -67,11 +67,11 @@ Data professional with 1.5+ years of hands-on experience in financial data engin
 - Instituted CI/CD, test harnesses, and performance profiling across analytics stack.
 
 <!-- <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/9d82ca43-8f89-4ada-af6c-781422ff57b0" /> -->
-<img width="39" height="40" alt="image" src="https://github.com/user-attachments/assets/ccd95d85-2580-415b-9ee3-8c44fb18719a" /></img> <strong>BVPL — Data Analyst Intern</strong> <em>(Gurugram, Oct 2024 – Jan 2025)</em>
+<!-- <img width="39" height="40" alt="image" src="https://github.com/user-attachments/assets/ccd95d85-2580-415b-9ee3-8c44fb18719a" /></img> <strong>BVPL — Data Analyst Intern</strong> <em>(Gurugram, Oct 2024 – Jan 2025)</em>
 
 - Delivered 100+ scalable PDP / Review / SERP crawlers with resilient selector strategies (XPath hardening).
 - Standardized validation & automation flows reducing crawler maintenance overhead and boosting throughput.
-- Built LLM-powered resume parser (MongoDB persistence) + assisted in data cleaning & QA workflows.
+- Built LLM-powered resume parser (MongoDB persistence) + assisted in data cleaning & QA workflows. -->
 
 <img width="39" height="40" alt="image" src="https://github.com/user-attachments/assets/cc3f1315-126f-495c-907e-0c983c5133c7" /></img>
 <strong>SRIJAN — Project Executive MIS / IT</strong> <em>(New Delhi, Jul 2021 – Feb 2022)</em>
