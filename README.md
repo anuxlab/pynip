@@ -27,7 +27,7 @@
 ---
 
 ### 👨‍💻 About
-Data professional with 1.5+ years of hands-on experience in financial data engineering & analytics. I design scalable ingestion & transformation pipelines (historical + real‑time), optimize quantitative research backtesting fidelity, and build lean automation + GenAI tooling that turns raw market data into actionable strategy insights.
+Data professional with 2 years of hands-on experience in financial data engineering & analytics. I design scalable ingestion & transformation pipelines (historical + real‑time), optimize quantitative research backtesting fidelity, and build lean automation + GenAI tooling that turns raw market data into actionable strategy insights.
 
 ---
 
