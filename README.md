@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Anurag Prasad </h1>
+<h1 align="center">Hi, I'm Anurag</h1>
 <!-- <img src="https://raw.githubusercontent.com/pynip/pynip/main/.github/assets/wave.gif" height="28" alt="wave"/> -->
 <p align="center">Data Science & Quant-Finance • Robust Large Scale Data Pipelines on AWS/Azure • GenAI Tooling • Trading Backtesting/Realtime Systems • Derivatives</p>
 <p align="center">
